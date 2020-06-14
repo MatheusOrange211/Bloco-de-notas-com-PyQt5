@@ -1,0 +1,18 @@
+Anotações Projeto Bloco de Notas
+
+DIA: 28/05/2020
+
+Por Matheus Naranjo Correa
+
+Terceiro dia do projeto do meu bloco de notas. Eu havia escrito muita coisa sobre o que deveria fazer, só que acabei gerando um bug que quando eu crio mais uma aba, ele simplesmente nao salva o arquivo kkkkk
+
+de todo modo, algumas evoluções:
+
+- SALVAR ARQUIVO * (exceção para word e pdf)
+- ABRIR ARQUVO 
+- NOVO ARQUIVO * (Tirando a merda do bug que descobri agora nessa porra, mas ao menos abre uma nova janela)
+
+de todo modo, msm perdendo o texto original kkkkkkkkkkk
+estou feliz por estar fazendo isso tudo, mesmo me sentindo incapaz, já que toda hora to pesquisando algo no google.
+
+Evolui hoje. Muito Obrigado por ler!

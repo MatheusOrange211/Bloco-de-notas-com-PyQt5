@@ -1,0 +1,56 @@
+Dia: 02/06/2020
+
+Projeto EDITOR DE NOTAS -MyNotes
+
+Nessa nova atualização, muitas coisas novas foram feitas e o projeto encontra-se praticamente finalizado. Vou listar algumas coisas que foram feitas:
+
+- Adicionei  os alinhamentos
+- Negrito
+- Sublinhado
+- Itálico
+- Adicionei a função de impressão
+- Sobre
+- Modos Novos (Não só o dark como color1 e color 2)
+
+
+Este projeto foi muito significante para mim, pois representa um salto nas minhas ambições de projetos. Parece pequeno aos olhos de programadores mais experientes, mas para mim, que estou inciando, é de grande importância  e estou muito feliz porque realmente resolverá um incomodo meu com o tradicional bloco de notas. O ozeias corrigiu alguns bugs e problemas que eu não havia encontrado a solução. Meus agradecimentos estão feitos na barra 'Sobre'.
+
+Depois de muitas horas de pesquisa e uma semana, estou, como já disse, realmente satisfeito.
+
+SUGESTÕES FUTURAS
+
+Modo New File
+Correção de bugs de acompanhamento de cursor
+Adicionar função de busca e pesquisa
+Salvamento automático
+Cores personalizadas pelo próprio usuário
+Simplificação do código
+
+
+
+
+É Apenas o início dessa grande caminhada no mundo da programação! 
+
+
+Por: Matheus Naranjo Corrêa
+
+
+Mynotes - Version 1.0
+2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
